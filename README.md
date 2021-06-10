@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Soumya-Punati
-- 👀 I’m interested in Big Data Analytics and Data Science
+- 👀 Passionate about Big Data Analytics and Data Science
 - 🌱 I’m currently learning Machine Learning models
 - 💞️ I’m looking to collaborate on Data Science Projects.
 - 📫 How to reach me ..
